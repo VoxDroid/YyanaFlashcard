@@ -1,5 +1,7 @@
 # YyanaFlashcard 🌸✨
 
+<img src="https://raw.githubusercontent.com/VoxDroid/YyanaFlashcard/refs/heads/main/assets/image/YF.png" width="440" height="440">
+
 ![YyanaFlashcard](https://img.shields.io/badge/YyanaFlashcard-Math%20Flashcards-orange?style=flat-square) 
 ![License](https://img.shields.io/badge/license-MIT-brightgreen?style=flat-square) 
 ![Version](https://img.shields.io/badge/version-1.0-blue?style=flat-square) 
